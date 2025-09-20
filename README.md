@@ -1,2 +1,2 @@
-#tic tac tok game
+# GUESS THE RANDOM NUMBER
 By using python 
